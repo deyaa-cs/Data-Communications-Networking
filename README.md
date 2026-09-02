@@ -26,3 +26,6 @@ Supporting diagrams and figures used across the notes are stored in the [`images
 ## 🎯 About
 
 This repository was created as part of a **Data Communications & Networking** course, organizing key topics into clear, structured notes for study and review.
+
+
+Built with ❤️ for students, developers, and lifelong learners.
