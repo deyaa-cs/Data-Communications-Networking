@@ -36,8 +36,7 @@
 
 > **FIGURE 1.1 HERE** – _Five components of data communication_  
    
-![[Pasted image 20260901150304.png]]
-
+![Image](images/Pasted%20image%2020260901150304.png) 
 ---
 
 ### Data Flow Modes
@@ -50,7 +49,7 @@
 
 > **FIGURE 1.2 HERE** – _Data flow (simplex, half-duplex, and full-duplex)_
 
-![[Pasted image 20260901150405.png]]
+![Image](images/Pasted%20image%2020260901150405.png)
 ---
 
 ## 1.2 NETWORKS
@@ -121,7 +120,7 @@ Involves:
 
 > **FIGURE 1.3 HERE** – _Types of connections: point-to-point and multipoint_ 
 
-![[Pasted image 20260901150500.png]]
+![Image](images/Pasted%20image%2020260901150500.png)
 
 ---
 
@@ -144,7 +143,7 @@ Involves:
 
  
  _ 
-![[Pasted image 20260901150656.png]]
+![Image](images/Pasted%20image%2020260901150656.png)
 
 #### Star Topology
 
@@ -155,7 +154,7 @@ Involves:
 
 > **FIGURE 1.6 HERE** – _Star topology connecting four stations_ 
 
- ![[Pasted image 20260901150814.png]]
+![Image](images/Pasted%20image%2020260901150814.png)
 
 #### Bus Topology
 
@@ -166,7 +165,7 @@ Involves:
 
 > **FIGURE 1.7 HERE** – _Bus topology connecting three stations_ 
 
- ![[Pasted image 20260901150948.png]]
+![Image](images/Pasted%20image%2020260901150948.png)
 
 #### Ring Topology
 
@@ -177,7 +176,7 @@ Involves:
 
 > **FIGURE 1.8 HERE** – _Ring topology connecting six stations_ 
 
- ![[Pasted image 20260901151042.png]]
+![Image](images/Pasted%20image%2020260901151042.png)
 
 #### Hybrid Topology
 
@@ -186,7 +185,7 @@ Involves:
 
 > **FIGURE 1.9 HERE** – _Hybrid topology: a star backbone with three bus networks_ 
 
-![[Pasted image 20260901151106.png]]
+![Image](images/Pasted%20image%2020260901151106.png)
 
 ---
 
@@ -200,15 +199,15 @@ Involves:
 
 > **FIGURE 1.10 HERE** – _An isolated LAN connecting 12 computers to a hub in a closet_
 
-![[Pasted image 20260901162157.png]]
+![Image](images/Pasted%20image%2020260901162157.png)
 
 > **FIGURE 1.11 HERE** – _WANs: a switched WAN and a point-to-point WAN_
 
-![[Pasted image 20260901162219.png]]
+![Image](images/Pasted%20image%2020260901162219.png)
 
 > **FIGURE 1.12 HERE** – _A heterogeneous network made of four WANs and two LANs_ 
 
-![[Pasted image 20260901162241.png]]
+![Image](images/Pasted%20image%2020260901162241.png)
 
 ---
 
@@ -253,7 +252,7 @@ The **Internet** = collaboration of hundreds of thousands of interconnected netw
 
 > **FIGURE 1.13 HERE** – _Hierarchical organization of the Internet_ 
 
-![[Pasted image 20260901162545.png]]
+![Image](images/Pasted%20image%2020260901162545.png)
 
 ---
 
