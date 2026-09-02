@@ -294,7 +294,7 @@ The **TCP/IP protocol suite** has 5 layers when compared to the OSI model:
 |**Port**|Transport (Layer 4)|Identifies specific process/service|`80`|
 
 ---
-📌 Chapter 2 Summary — At a Glance
+##📌 Chapter 2 Summary — At a Glance
 
 - **OSI Model** = 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application
     
