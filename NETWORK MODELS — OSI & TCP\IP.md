@@ -285,6 +285,22 @@ The **TCP/IP protocol suite** has 5 layers when compared to the OSI model:
 
 ### Four Levels of Addresses
 
+ 📌 Chapter 2 Summary — At a Glance
+
+- **OSI Model** = 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application
+    
+- Each layer has **specific responsibilities** and communicates with its **peer layer** on other devices
+    
+- **TCP/IP** = 5 layers: Physical, Data Link, Network, Transport, Application
+    
+- **IP** is unreliable, connectionless, best-effort; supported by ARP, RARP, ICMP, IGMP
+    
+- **UDP** = fast but unreliable; **TCP** = slower but reliable; **SCTP** = hybrid
+    
+- **4 address types:** Physical (MAC), Logical (IP), Port, Specific
+    
+- **Physical addresses** change hop-to-hop; **logical & port** stay the same end-to-end
+
 |Address Type|Layer|Description|Example|
 |---|---|---|---|
 |**Physical (MAC)**|Data Link (Layer 2)|Unique hardware address on NIC|`00:1A:2B:3C:4D:5E`|
