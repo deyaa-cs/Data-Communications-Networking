@@ -292,6 +292,8 @@ The **TCP/IP protocol suite** has 5 layers when compared to the OSI model:
 |**Physical (MAC)**|Data Link (Layer 2)|Unique hardware address on NIC|`00:1A:2B:3C:4D:5E`|
 |**Logical (IP)**|Network (Layer 3)|Routable address across networks|IPv4: `192.168.1.1` / IPv6: `2001:0db8:...`|
 |**Port**|Transport (Layer 4)|Identifies specific process/service|`80`|
+
+---
 📌 Chapter 2 Summary — At a Glance
 
 - **OSI Model** = 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application
