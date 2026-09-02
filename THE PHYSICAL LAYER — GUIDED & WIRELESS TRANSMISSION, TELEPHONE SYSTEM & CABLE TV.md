@@ -42,10 +42,11 @@ Guided transmission uses **physical media** to carry signals from sender to rece
 
 > **FIGURE: (a) Category 3 UTP HERE**  
 
-![[Pasted image 20260902074544.png]]
+![Image](images/Pasted%20image%2020260902074544.png)
+
 > **FIGURE: (b) Category 5 UTP HERE**
 
-![[Pasted image 20260902074600.png]]
+![Image](images/Pasted%20image%2020260902074600.png)
 
 |Category|Use|
 |---|---|
@@ -65,7 +66,7 @@ Guided transmission uses **physical media** to carry signals from sender to rece
 
 > **FIGURE: A coaxial cable HERE**
 
-![[Pasted image 20260902074627.png]]
+![Image](images/Pasted%20image%2020260902074627.png)
 
 **Advantages:**
 
@@ -90,21 +91,21 @@ Guided transmission uses **physical media** to carry signals from sender to rece
 > **FIGURE: (a) Three examples of a light ray from inside a silica fiber impinging on the air/silica boundary at different angles 
 > FIGURE: (b) Light trapped by total internal reflection HERE 
 
-![[Pasted image 20260902074754.png]]
+![Image](images/Pasted%20image%2020260902074754.png)
 
 **Fiber Cable Structure:**
 
 > FIGURE: (a) Side view of a single fiber   
 > **FIGURE: (b) End view of a sheath with three fibers HERE
 
-  ![[Pasted image 20260902074845.png]]
+![Image](images/Pasted%20image%2020260902074845.png)
   
 
 **Fiber Optic Networks:**
 
 > **FIGURE: A fiber optic ring with active repeaters HERE
 
-![[Pasted image 20260902074917.png]]
+![Image](images/Pasted%20image%2020260902074917.png)
 
 Advantages of Fiber:
 
@@ -125,7 +126,7 @@ Advantages of Fiber:
 
 > **FIGURE: The electromagnetic spectrum and its uses for communication HERE**
 
-![[Pasted image 20260902074950.png]]
+![Image](images/Pasted%20image%2020260902074950.png)
 
 **Key Bands for Communication:**
 
@@ -143,7 +144,7 @@ Advantages of Fiber:
 > **FIGURE: (a) In the VLF, LF, and MF bands, radio waves follow the curvature of the earth
 > FIGURE: (b) In the HF band, they bounce off the ionosphere HERE
 
-![[Pasted image 20260902075406.png]]
+![Image](images/Pasted%20image%2020260902075406.png)
 
 **Ground Waves (VLF, LF, MF):**
 
@@ -187,7 +188,7 @@ Advantages of Fiber:
 
 > **FIGURE: Convection currents can interfere with laser communication systems — a bidirectional system with two lasers HERE
 
- ![[Pasted image 20260902075449.png]]
+![Image](images/Pasted%20image%2020260902075449.png)
 
 **Characteristics:**
 
@@ -206,7 +207,7 @@ Advantages of Fiber:
 
 > **FIGURE: Communication satellites and their properties — altitude, round-trip delay, and number needed for global coverage HERE**
 
-![[Pasted image 20260902075514.png]]
+![Image](images/Pasted%20image%2020260902075514.png)
 
 |Type|Altitude|Round-Trip Delay|Coverage|
 |---|---|---|---|
@@ -254,7 +255,7 @@ Advantages of Fiber:
 > FIGURE: Iridium satellites from six necklaces around the earth 
 > **FIGURE: 1,628 moving cells cover the earth HERE**
 
-![[Pasted image 20260902075548.png]]
+![Image](images/Pasted%20image%2020260902075548.png)
 
 ---
 
@@ -274,7 +275,7 @@ Advantages of Fiber:
 
 > **FIGURE: VSATs using a hub HERE**
 
-![[Pasted image 20260902075640.png]]
+![Image](images/Pasted%20image%2020260902075640.png)
 
 - Small satellite dish antennas
     
@@ -314,7 +315,7 @@ Advantages of Fiber:
 > **FIGURE: (b) Centralized switch 
 > FIGURE: (c) Two-level hierarchy HERE
 
-![[Pasted image 20260902075900.png]]
+![Image](images/Pasted%20image%2020260902075900.png)
 
 **By 1878:** Bell Telephone Company established a switching office in New Haven, Connecticut.
 
@@ -337,7 +338,7 @@ Advantages of Fiber:
 
 > **FIGURE: A typical circuit route for a medium-distance call HERE**
 
-![[Pasted image 20260902075943.png]]
+![Image](images/Pasted%20image%2020260902075943.png)
 
 ---
 
@@ -345,7 +346,7 @@ Advantages of Fiber:
 
 > **FIGURE: The use of both analog and digital transmissions for a computer-to-computer call — conversion done by modems and codecs HERE**
 
-![[Pasted image 20260902080006.png]]
+![Image](images/Pasted%20image%2020260902080006.png)
 
 ---
 
@@ -367,7 +368,7 @@ Advantages of Fiber:
 > FIGURE: (c) Frequency modulation 
 > FIGURE: (d) Phase modulation HERE**
 
-![[Pasted image 20260902080056.png]]
+![Image](images/Pasted%20image%2020260902080056.png)
 
 **Modulation Techniques:**
 
@@ -383,7 +384,7 @@ Advantages of Fiber:
 
 > **FIGURE: Architecture of an LMDS system HERE**
 
-![[Pasted image 20260902080255.png]]
+![Image](images/Pasted%20image%2020260902080255.png)
 
 - LMDS (Local Multipoint Distribution Service)
     
@@ -402,7 +403,7 @@ Advantages of Fiber:
 > FIGURE: (b) The bandwidths raised in frequency 
 > FIGURE: (c) The multiplexed channel HERE**
 
-![[Pasted image 20260902080207.png]]
+![Image](images/Pasted%20image%2020260902080207.png)
 
 **Concept:** Different signals are transmitted at different frequencies (frequency bands) simultaneously.
 
@@ -412,10 +413,11 @@ Advantages of Fiber:
 
 > **FIGURE: Delta modulation HERE**  
 
-![[Pasted image 20260902080319.png]]
+![Image](images/Pasted%20image%2020260902080319.png)
+
 > **FIGURE: Multiplexing T1 streams into higher carriers HERE**
 
-![[Pasted image 20260902080347.png]]
+![Image](images/Pasted%20image%2020260902080347.png)
 
 **Concept:** Different signals take turns on the same channel, each for a fixed time slot.
 
@@ -428,7 +430,7 @@ Advantages of Fiber:
 > **FIGURE: (a) Circuit switching 
 > FIGURE: (b) Packet switching HERE
 
-![[Pasted image 20260902080403.png]]
+![Image](images/Pasted%20image%2020260902080403.png)
 
 |Feature|Circuit Switching|Packet Switching|
 |---|---|---|
@@ -457,7 +459,7 @@ Advantages of Fiber:
 > **FIGURE: (a) Frequencies are not reused in adjacent cells  
 > FIGURE: (b) To add more users, smaller cells can be used HERE
 
-![[Pasted image 20260902080430.png]]
+![Image](images/Pasted%20image%2020260902080430.png)
 
 **Channel Categories (832 channels):**
 
@@ -489,7 +491,7 @@ Advantages of Fiber:
 
 > **FIGURE: An early cable television system HERE**
 
-![[Pasted image 20260902080504.png]]
+![Image](images/Pasted%20image%2020260902080504.png)
 
 - Original cable TV systems
     
@@ -502,11 +504,11 @@ Advantages of Fiber:
 
 > **FIGURE: Cable television HERE**  
 
-![[Pasted image 20260902080527.png]]
+![Image](images/Pasted%20image%2020260902080527.png)
 
 > **FIGURE: The fixed telephone system HERE**
 
-![[Pasted image 20260902080543.png]]
+![Image](images/Pasted%20image%2020260902080543.png)
 
 **Spectrum Allocation:**
 
