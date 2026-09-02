@@ -1,3 +1,4 @@
+
 #  NETWORK MODELS — OSI & TCP/IP
 
 ---
@@ -285,16 +286,89 @@ The **TCP/IP protocol suite** has 5 layers when compared to the OSI model:
 
 ### Four Levels of Addresses
 
- 
-
 |Address Type|Layer|Description|Example|
 |---|---|---|---|
 |**Physical (MAC)**|Data Link (Layer 2)|Unique hardware address on NIC|`00:1A:2B:3C:4D:5E`|
 |**Logical (IP)**|Network (Layer 3)|Routable address across networks|IPv4: `192.168.1.1` / IPv6: `2001:0db8:...`|
-|**Port**|Transport (Layer 4)|Identifies specific process/service|`80`|
+|**Port**|Transport (Layer 4)|Identifies specific process/service|`80` (HTTP), `443` (HTTPS)|
+|**Specific**|Application (Layer 7)|User-friendly addresses|Email: `user@domain.com` / URL: `www.example.com`|
 
 ---
-##📌 Chapter 2 Summary — At a Glance
+
+### Key Addressing Concepts
+
+> **FIGURE 2.17 HERE** – _Addresses in TCP/IP_
+
+![Image](images/Pasted%20image%2020260901191509.png)
+
+> **FIGURE 2.18 HERE** – _Relationship of layers and addresses in TCP/IP_
+
+![Image](images/Pasted%20image%2020260901191601.png)
+
+**Physical Address (MAC Address)**
+
+- 48-bit (6-byte) address in hexadecimal
+    
+- Format: `07:01:02:01:2C:4B`
+    
+- Used for local network communication (LAN)
+    
+- Mapped via ARP
+    
+
+> **FIGURE 2.19 HERE** – _Physical addresses — Example: node 10 sends to node 87_
+
+![Image](images/Pasted%20image%2020260901191801.png)
+
+> **FIGURE 2.20 HERE** – _IP addresses — Routers with multiple addresses_
+
+![Image](images/Pasted%20image%2020260901191903.png)
+
+**Logical Address (IP Address)**
+
+- Routable across networks and the Internet
+    
+- Assigned dynamically (DHCP) or statically
+    
+
+> **FIGURE 2.21 HERE** – _Port addresses — Multiple processes communicating_
+
+![Image](images/Pasted%20image%2020260901191927.png)
+
+**Port Address**
+
+- 16-bit number: range 0–65,535
+    
+- **Well-known ports:** 0–1023 (e.g., HTTP = 80, HTTPS = 443)
+    
+- Combined with IP = **Socket** (e.g., `192.168.1.10:8080`)
+    
+
+**Specific Address (User-Friendly)**
+
+- Email addresses: `forouzan@fhda.edu`
+    
+- URLs: `www.mhhe.com`
+    
+- Converted to IP + port addresses by the sending computer
+    
+
+---
+
+### 💡 Key Takeaways — Address Behavior
+
+|Address Type|Changes During Transmission?|
+|---|---|
+|**Physical**|**Changes** from hop to hop|
+|**Logical (IP)**|**Remains the same** source to destination|
+|**Port**|**Remains the same** source to destination|
+|**Specific**|Converted to logical + port by sender|
+
+> **Example 2.5:** A port address is a 16-bit address represented as a single decimal number, e.g., `753`
+
+---
+
+## 📌 Chapter 2 Summary — At a Glance
 
 - **OSI Model** = 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application
     
@@ -309,3 +383,7 @@ The **TCP/IP protocol suite** has 5 layers when compared to the OSI model:
 - **4 address types:** Physical (MAC), Logical (IP), Port, Specific
     
 - **Physical addresses** change hop-to-hop; **logical & port** stay the same end-to-end
+    
+
+---
+
